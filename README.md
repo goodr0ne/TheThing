@@ -1,2 +1,2 @@
 # TheThing
-Extraterrarian numberic calculation
+Extraterrarian numeric calculation
